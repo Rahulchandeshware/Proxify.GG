@@ -44,6 +44,8 @@ A detailed **Summary Report** that provides insights into testing results, execu
 📂 [View Summary Report]=(https://docs.google.com/document/d/1TNMthh5vsrll0GxxEoiXjsO6cezVcvg-IlV6Ne3CKcU/edit?usp=drive_link)
 
 ---
+## 📝 Selenium 
+The ** I have done Automation testing  for some functionality  using selenium and java with maven dependecies 
 
 ## 🐞 Bug Report
 A structured **Bug Report** listing all identified defects, severity levels, and reproduction steps.
