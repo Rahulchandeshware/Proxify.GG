@@ -17,7 +17,7 @@ Welcome to the **Proxify.gg Testing Repository**! This repository contains compr
 ---
 
 ## 📌 Overview
-Proxify.gg is a platform that provides **[brief description of Proxify.gg’s purpose]**. To ensure its **reliability, performance, and functionality**, this repository contains structured testing documents covering different aspects of the application.
+Proxify.gg is a platform that provides **[]**. To ensure its **reliability, performance, and functionality**, this repository contains structured testing documents covering different aspects of the application.
 
 ---
 
