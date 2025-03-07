@@ -26,7 +26,7 @@ Start Browsing Securely!
 
 📚 Documentation
 
-For detailed instructions and API integrations, check out our official documentation.
+For detailed instructions we created Testcases and testplan, bugreport , test summary report .
 
 🛠 Testing
 
