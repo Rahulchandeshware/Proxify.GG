@@ -28,7 +28,7 @@ The **Test Plan** defines the testing scope, objectives, resources, schedule, an
 
 ---
 
-## 📋 Test Scenarios & Test Cases
+## 📋 Test Cases
 We have designed **Test Scenarios** and corresponding **Test Cases** to validate the core functionalities of Proxify.gg. Each test case includes **steps, expected results, actual results, and status**.
 
 📂 [View Test Cases](https://docs.google.com/spreadsheets/d/17RhPkMjvd12P29KA8ZLXEMiTIdlvk6TR0AW-l4YBomg/edit?usp=drive_link)
