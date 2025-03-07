@@ -1,6 +1,7 @@
 # 📌 Proxify.gg Testing Documentation
 
-Welcome to the **Proxify.gg Testing Repository**! This repository contains comprehensive test documentation, including **test plans, test cases, test scenarios, summary reports, bug reports and selenium ** for the Proxify.gg website.
+Welcome to the **Proxify.gg Testing Repository**!Proxify.gg is a platform that provides gaming proxies and anti-detection tools to help gamers reduce lag, bypass region locks, and improve their connection to game servers
+This repository contains comprehensive test documentation, including **test plans, test cases, test scenarios, summary reports, bug reports and selenium ** for the Proxify.gg website.
 
 ---
 
