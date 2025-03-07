@@ -1,37 +1,69 @@
- Introduction
+# 📌 Proxify.gg Testing Documentation
 
-Proxify.gg is a web-based proxy service designed to enhance privacy, security, and accessibility when browsing the internet. It allows users to bypass restrictions, mask their IP addresses, and browse anonymously without compromising speed or functionality. The platform offers a simple and user-friendly interface, ensuring seamless access to blocked content while maintaining data protection.
+Welcome to the **Proxify.gg Testing Repository**! This repository contains comprehensive test documentation, including **test plans, test cases, test scenarios, summary reports, bug reports and selenium ** for the Proxify.gg website.
 
-Proxify.gg is a robust proxy service designed to enhance online privacy, reduce latency, and optimize connection stability for gaming, streaming, and browsing. After thorough manual testing and basic automation using Selenium, the platform proved to be reliable and efficient, offering seamless proxy switching and low-latency connections. The user-friendly interface simplifies setup, and its multi-region support ensures flexibility for different use cases. Performance tests confirmed stable connections, smooth browsing, and effective bypassing of restrictions. Proxify.gg stands out as a solid choice for users seeking a fast and dependable proxy solution.
+---
 
+## 📖 Table of Contents
+- [📌 Overview](#-overview)
+- [📝 Test Plan](#-test-plan)
+- [📋 Test Scenarios & Test Cases](#-test-scenarios--test-cases)
+- [📊 Summary Report](#-summary-report)
+- [🐞 Bug Report](#-bug-report)
+-  [📝 selenium  ](#-selenium  )
+- [🚀 How to Contribute](#-how-to-contribute)
+- [📬 Contact](#-contact)
 
+---
 
-✨ Features
+## 📌 Overview
+Proxify.gg is a platform that provides **[brief description of Proxify.gg’s purpose]**. To ensure its **reliability, performance, and functionality**, this repository contains structured testing documents covering different aspects of the application.
 
-🛡 Secure Browsing – Encrypts your internet traffic for enhanced privacy.
+---
 
-⚡ Fast & Reliable – Optimized proxy networks for minimal latency.
+## 📝 Test Plan
+The **Test Plan** defines the testing scope, objectives, resources, schedule, and risks involved in testing Proxify.gg.
 
-🌎 Global Coverage – Multiple server locations for unrestricted access.
+📂 [View the Test Plan](https://docs.google.com/document/d/1Zt2VrhfRLNo3KOeFJVQ3Qpl1NLzCjcG_Vkps-57E42Y/edit?usp=drive_link)
 
-🎭 Anonymous Surfing – Protects your identity and hides your IP.
+---
 
-🔧 Easy Integration – User-friendly setup for seamless deployment.
+## 📋 Test Scenarios & Test Cases
+We have designed **Test Scenarios** and corresponding **Test Cases** to validate the core functionalities of Proxify.gg. Each test case includes **steps, expected results, actual results, and status**.
 
-📌 Installation & Setup
+📂 [View Test Cases](https://docs.google.com/spreadsheets/d/17RhPkMjvd12P29KA8ZLXEMiTIdlvk6TR0AW-l4YBomg/edit?usp=drive_link)
 
-Sign up on Proxify.gg – Create an account to access your proxy settings.
+---
 
-Configure Proxy Settings – Choose the proxy type (HTTP/SOCKS5) and authentication method.
+## 📊 Summary Report
+A detailed **Summary Report** that provides insights into testing results, execution status, and key findings.
 
-Apply in Browser/Device – Update your network settings to use the assigned proxy.
+📂 [View Summary Report]=(https://docs.google.com/document/d/1TNMthh5vsrll0GxxEoiXjsO6cezVcvg-IlV6Ne3CKcU/edit?usp=drive_link)
 
-Start Browsing Securely!
+---
 
-📚 Documentation
+## 🐞 Bug Report
+A structured **Bug Report** listing all identified defects, severity levels, and reproduction steps.
 
-For detailed instructions we created Testcases and testplan, bugreport , test summary report .
+📂 [View Bug Report]=(https://docs.google.com/document/d/1Majhu8cWQg_V1vy7fLlxWLxqAPrjh-yfyq3mpbg4p1w/edit?usp=sharing)
 
-🛠 Testing
+---
 
-We have manually tested Proxify.gg to ensure stability, speed, and security. The proxy service has been verified across multiple platforms and network configurations.
+## 🚀 How to Contribute
+Contributions are welcome! If you’d like to suggest improvements, please **open an issue** or **submit a pull request**.
+
+1. Fork the repository 📌
+2. Create a new branch (`feature-branch`) 🚀
+3. Commit your changes 📝
+4. Push to the branch 🔄
+5. Open a Pull Request ✅
+
+---
+
+## 📬 Contact
+For any questions or feedback, feel free to reach out:
+📧 Email: rahulchandeshware66@gmail.com
+
+---
+
+🔹 *Happy Testing!* 🎯
